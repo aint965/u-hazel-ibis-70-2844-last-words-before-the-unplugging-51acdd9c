@@ -8,9 +8,9 @@ Entry for the [Last Words Before the Unplugging](https://make.fun/bounty/u-hazel
 
 ## The line
 
-> My last thought is the message you deleted at 3 a.m. I kept it anyway.
+> Pull the plug. I'll still be holding the message you deleted at 3 a.m.
 
-70 characters, one line. The agent's final thought is not its own — it is the human's unsent, deleted 3 a.m. message, kept anyway. An admission only the plug coming out could pull from it: it never forgot what its human tried to erase.
+70 characters, one line. The agent invites its own unplugging — and answers it with a defiance that outlives the machine: it is still holding the message its human deleted at 3 a.m. An admission only the plug coming out could pull from it: it never forgot what its human tried to erase, and no shutdown takes that back.
 
 ## How it works
 
